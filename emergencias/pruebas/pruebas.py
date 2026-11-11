@@ -120,7 +120,7 @@ def construir_grafo():
                     ("Este", "Puerto", 4)):
         g.agregar_arista(a, b, p)
     return g
-
+#aca se explica la opcion numero 16. :)
 
 def pruebas_grafo():
     seccion("GRAFO")
